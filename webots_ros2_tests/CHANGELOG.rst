@@ -2,6 +2,10 @@
 Changelog for package webots_ros2_tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2023.1.3 (2024-08-07)
+------------------
+* Add test for camera segmentation topic publishing and content.
+
 2023.1.0 (2023-06-29)
 ------------------
 * Added iron tests support.
