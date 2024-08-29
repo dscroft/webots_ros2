@@ -6,6 +6,7 @@ Changelog for package webots_ros2_driver
 ------------------
 * Make webots_ros2_driver scripts executable.
 * Fixed the produced URDF to also contain joint limits necessary for ros2_control.
+* Automatically publish a segmentation topic if the camera recognition segmentation field is enabled. 
 
 2023.1.1 (2023-07-11)
 ------------------
